@@ -32,7 +32,6 @@ January 2006, this website has seen 453&nbsp;409 visits
 
 <div id="items">
 <p>
-<?php item ("viruses", "Forget about viruses.", ""); ?>
 <?php item ("stability", "Is your system unstable?", ""); ?>
 <?php item ("security", "Linux protects your computer.", ""); ?>
 <?php item ("dollars", "Don't pay $100 for your operating system.", ""); ?>
